@@ -1,0 +1,19 @@
+{
+  "name": "event_scheduler",
+  "version": "1.0.0",
+  "description": "to play around with html,css and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/quzhiwei/Event_Scheduler.git"
+  },
+  "author": "Zhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quzhiwei/Event_Scheduler/issues"
+  },
+  "homepage": "https://github.com/quzhiwei/Event_Scheduler#readme"
+}
