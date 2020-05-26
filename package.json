@@ -4,7 +4,8 @@
   "description": "to play around with html,css and express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/quzhiwei/Event_Scheduler/issues"
   },
-  "homepage": "https://github.com/quzhiwei/Event_Scheduler#readme"
+  "homepage": "https://github.com/quzhiwei/Event_Scheduler#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }

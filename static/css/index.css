@@ -1,0 +1,35 @@
+.title{
+	color :white;
+	background: black;
+	text-align: center;
+	margin-left:750px;
+	margin-right: 750px;
+}
+
+.sidebar{
+	color:blue;
+	float:center;
+	background-image:url("images/sidebar.jpg");
+	list-style: none;
+}
+html{
+
+}
+
+.description{
+	color:black;
+	width:250px;
+	float:left;
+
+	padding-left: 400px;
+}
+
+.eventScheduler{
+	color:black;
+	width:600px;
+	float:center;
+	padding-left: 130px;
+	margin-left:auto;
+	margin-right:auto;
+	width: 30em;
+}
